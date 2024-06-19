@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![gersones](https://user-images.githubusercontent.com/62805855/112034622-70571600-8b1d-11eb-92e3-cba8b29f5651.png)
+![gersones](https://avatars.githubusercontent.com/u/62805855?v=4)
 <!--
 **GersonESantos/GersonESantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
