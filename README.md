@@ -1,11 +1,17 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
+<<<<<<< HEAD
 -----
+=======
+--
+**GersonESantos/GersonESantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>>>>>>> ccf4c4f149ace748c0f7a949c2a412b4c1d0064c
 
 <div>
 <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header_aramuni.png?raw=true"/>
 </div>
 
+<<<<<<< HEAD
 -----
 
 <div align="center">
@@ -414,3 +420,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 -->
 
 <!-- Obrigado pela visita! -->
+=======
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--
+>>>>>>> ccf4c4f149ace748c0f7a949c2a412b4c1d0064c
